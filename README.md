@@ -1,2 +1,2 @@
 # AppForFilmSearch
-This is the app for film search
+This is the app for film search.
