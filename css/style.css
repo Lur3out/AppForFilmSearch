@@ -4,7 +4,28 @@
     padding: 0;
 }
 
+body {
+    width: 100%;
+    height: 100%;
+    color: #b5f38b;
+    background: black;
+    font-size: 1em;
+    font-family: "Segoe UI", sans-serif;
+    line-height: 135%;
+}
+
 header, footer {
     width: 100%;
     background-color: green;
+    min-height: 50px;
+
+}
+
+header {
+    border-bottom: 2px soild silver;
+}
+
+footer {
+    border-top: 2px soild silver;
+    margin-top: 41%;
 }
